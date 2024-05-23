@@ -12,7 +12,7 @@ Ensure you have the following installed:
 
 1. Navigate to the `taskwave` directory:
     ```sh
-    cd taskwave
+    cd TaskWave
     ```
 
 2. Install the dependencies:
@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 1. Navigate to the `taskwave-api` directory:
     ```sh
-    cd taskwave-api
+    cd TaskWave-api
     ```
 
 2. Install the dependencies:
