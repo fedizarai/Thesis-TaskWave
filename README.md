@@ -45,5 +45,5 @@ Ensure you have the following installed:
 ## Notes
 
 - Make sure to run each application in separate terminal windows or tabs to ensure they both operate concurrently.
-- If there are any environment variables or additional configuration required, ensure you have them set up as needed. Refer to the specific documentation within each application folder if available.
+- If there are any environment variables or additional configuration required, ensure you have them set up as needed.
 
